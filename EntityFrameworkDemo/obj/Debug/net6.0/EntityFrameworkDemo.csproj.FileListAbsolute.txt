@@ -1,0 +1,14 @@
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\net6.0\EntityFrameworkDemo.deps.json
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\net6.0\EntityFrameworkDemo.runtimeconfig.json
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\net6.0\EntityFrameworkDemo.dll
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\net6.0\EntityFrameworkDemo.pdb
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.AssemblyInfo.cs
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.dll
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\refint\EntityFrameworkDemo.dll
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.pdb
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\EntityFrameworkDemo.genruntimeconfig.cache
+C:\Users\Boss\Desktop\New folder\ProjectRepo\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\net6.0\ref\EntityFrameworkDemo.dll
